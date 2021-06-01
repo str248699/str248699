@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @str248699
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Men
+- 🌱 I’m currently learning ... to be patient and not curse
+- 💞️ I’m looking to collaborate on ... All my property 
+
+- 📫 How to reach me ... 9162420786
 
 <!---
 str248699/str248699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
